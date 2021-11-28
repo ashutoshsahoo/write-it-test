@@ -10,7 +10,7 @@
     </parent>
     <groupId>com.ashu.practice</groupId>
     <artifactId>demo-app-cli-it</artifactId>
-    <version>0.0.1-SNAPSHOT</version>
+    <version>0.0.2-SNAPSHOT</version>
     <name>demo-app-cli-it</name>
     <description>Demo project for Spring Boot</description>
     <properties>
@@ -24,7 +24,7 @@
         <dependency>
             <groupId>com.ashu.practice</groupId>
             <artifactId>demo-app-cli</artifactId>
-            <version>0.0.1-SNAPSHOT</version>
+            <version>0.0.2-SNAPSHOT</version>
         </dependency>
 
         <dependency>
